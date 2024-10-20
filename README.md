@@ -1,4 +1,4 @@
-# IdentiFace
+# IdentiFace PRO
 
 A minimalistic, responsive, multilanguage and powerful face recognition app for Android, iOS,
 Desktop,
@@ -6,6 +6,7 @@ and Web, using [Compreface](https://github.com/exadel-inc/CompreFace) as backend
 
 
 <img src="screenshots/evidenza.png" alt="Cover image">
+
 More detailed description of the app can be
 found [here](https://scognito.wordpress.com/2024/10/14/identiface-pro-a-free-and-open-source-multiplatform-face-recognition-app/).
 
@@ -19,8 +20,11 @@ recognized, allowing integration with many things like home automation, IoT devi
 
 One example of API could be opening remote doors, send notifications etc.
 
-It is created as a standalone app,it doesn't store any user information except the avatar image
-of the user (optional). No information is stored on the device.
+It is created as a standalone app so the configuration is stored on device, but it doesn't store any
+user information except the avatar image
+of the user (optional).
+
+No user information is stored on the device.
 
 ## Get it
 
