@@ -32,7 +32,7 @@ of the user (optional). No information is stored on the device.
 <br>
 
 <a href="https://apps.apple.com/us/app/identiface-pro/id6736407084?itscg=30200&itsct=apps_box_badge&mttnsubad=6736407084" style="display: inline-block;">
-    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" style="width: 246px; height: 82px; vertical-align: middle; object-fit: contain;" />
+    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" style="height: 50px; vertical-align: middle; object-fit: contain;" />
 </a>
 <br>
 <!-- https://apps.microsoft.com/badge?hl=en-US&gl=US -->
