@@ -4,6 +4,8 @@ A minimalistic, responsive, multilanguage and powerful face recognition app for 
 Desktop,
 and Web, using [Compreface](https://github.com/exadel-inc/CompreFace) as backend.
 
+
+<img src="screenshots/evidenza.png" alt="Cover image">
 More detailed description of the app can be
 found [here](https://scognito.wordpress.com/2024/10/14/identiface-pro-a-free-and-open-source-multiplatform-face-recognition-app/).
 
@@ -23,23 +25,20 @@ of the user (optional). No information is stored on the device.
 ## Get it
 
 <!-- https://toolbox.marketingtools.apple.com/en-us/app-store/us?q=https%3A%2F%2Fapps.apple.com%2Fnl%2Fapp%2Fidentiface-pro%2Fid6736407084%3Fl%3Den-GB -->
-<a href="https://apps.apple.com/us/app/identiface-pro/id6736407084?itscg=30200&itsct=apps_box_badge&mttnsubad=6736407084" style="display: inline-block;">
-    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" style="height: 50px; vertical-align: middle; object-fit: contain;" />
-</a>
-<br>
-<a href="https://play.google.com/store/apps/details?id=it.scognito.face_detector" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
-</a>
-<br>
-<!-- https://toolbox.marketingtools.apple.com/en-us/app-store/us/app/6736407084 -->
-<a href="https://apps.apple.com/us/app/identiface-pro/id6736407084?itscg=30200&itsct=apps_box_badge&mttnsubad=6736407084" style="display: inline-block;">
-    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-mac-app-store/black/en-us" alt="Download on the App Store" style="height: 50px; vertical-align: middle; object-fit: contain;" />
-</a>
-<br>
-<!-- https://apps.microsoft.com/badge?hl=en-US&gl=US -->
-<a href="https://apps.microsoft.com/detail/9MZ7HH1NJBGM?mode=direct">
-    <img src="https://get.microsoft.com/images/it%20dark.svg" alt="Download from Microsoft Store" height="60"/>
-</a>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 400px; margin: auto;">
+    <a href="https://apps.apple.com/it/app/identiface-pro/id6736407084" style="display: inline-block;">
+        <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" style="height: 50px; vertical-align: middle; object-fit: contain;" />
+    </a>
+    <a href="https://play.google.com/store/apps/details?id=it.scognito.face_detector" target="_blank" style="display: inline-block;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
+    </a>
+    <a href="https://apps.apple.com/us/app/identiface-pro/id6736407084?itscg=30200&itsct=apps_box_badge&mttnsubad=6736407084" style="display: inline-block;">
+        <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-mac-app-store/black/en-us" alt="Download on the Mac App Store" style="height: 50px; vertical-align: middle; object-fit: contain;" />
+    </a>
+    <a href="https://apps.microsoft.com/detail/9MZ7HH1NJBGM?mode=direct" style="display: inline-block;">
+        <img src="https://get.microsoft.com/images/it%20dark.svg" alt="Download from Microsoft Store" height="60"/>
+    </a>
+</div>
 
 ## For developers
 
