@@ -8,7 +8,7 @@ and Web, using [Compreface](https://github.com/exadel-inc/CompreFace) as backend
 <img src="screenshots/evidenza.png" alt="Cover image">
 
 More detailed description of the app can be
-found [here](https://scognito.wordpress.com/2024/10/14/identiface-pro-a-free-and-open-source-multiplatform-face-recognition-app/).
+found [here](https://scognito.wordpress.com/2024/10/20/identiface-pro-a-free-and-open-source-multiplatform-face-recognition-app/).
 
 Tutorial for setting up Compreface can be
 found [here](https://scognito.wordpress.com/2024/09/02/how-to-configure-an-easy-free-and-open-source-face-recognition-service/).
@@ -25,6 +25,9 @@ user information except the avatar image
 of the user (optional).
 
 No user information is stored on the device.
+
+## Video Demo
+[![Watch Identiface PRO](https://img.youtube.com/vi/fc6sJXmNLm8/0.jpg)](https://www.youtube.com/watch?v=fc6sJXmNLm8)
 
 ## Get it
 
