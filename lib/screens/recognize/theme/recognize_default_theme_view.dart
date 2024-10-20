@@ -300,7 +300,7 @@ class LandscapeConfiguration extends StatelessWidget {
                             child: Padding(
                               padding: const EdgeInsets.all(4.0),
                               child: ListView.builder(
-                                itemCount: 18,
+                                itemCount: 35,
                                 itemBuilder: (_, __) {
                                   return const Padding(
                                     padding: EdgeInsets.only(bottom: 4),
