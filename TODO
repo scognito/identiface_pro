@@ -1,11 +1,3 @@
-rinominare camera_mobile
-
-se compilo app su web, non riesco a chiamare forse per cross origin?
-
-su mac quando l'app è installata, ha ancora il nome face_detector
-
-testare su windows se un riconoscimento funziona, in modo da snellire "recognize" in screen_recognize_view
-
 aggiornare link articolo blog in readme
 
 RELEASE ANDROID:

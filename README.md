@@ -30,15 +30,15 @@ of the user (optional). No information is stored on the device.
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 <br>
-<a href="https://apps.apple.com/nl/app/identiface-pro/id6736407084?l=en-GB" target="_blank">
-    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us" alt="Download on the Mac App Store" height="50">
+
+<a href="https://apps.apple.com/us/app/identiface-pro/id6736407084?itscg=30200&itsct=apps_box_badge&mttnsubad=6736407084" style="display: inline-block;">
+    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" style="width: 246px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
 <br>
 <!-- https://apps.microsoft.com/badge?hl=en-US&gl=US -->
 <a href="https://apps.microsoft.com/detail/9MZ7HH1NJBGM?mode=direct">
     <img src="https://get.microsoft.com/images/it%20dark.svg" width="200"/>
 </a>
-
 
 ## For devs
 
