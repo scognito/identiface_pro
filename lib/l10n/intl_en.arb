@@ -1,0 +1,109 @@
+{
+  "@@locale": "en",
+  "helloWorld": "Hello World!",
+  "@_DIALOG": {},
+  "password_required": "Password required",
+  "error_wrong_password": "Incorrect password",
+  "create_user": "Create user",
+  "edit_user_name": "Edit {user}",
+  "@edit_user_name": {
+    "placeholders": {
+      "user": {
+        "type": "String",
+        "example": "User's Name"
+      }
+    }
+  },
+  "edit_user": "Edit user",
+  "delete_user_name": "Delete {user} ?",
+  "@delete_user_name": {
+    "placeholders": {
+      "user": {
+        "type": "String",
+        "example": "User's Name"
+      }
+    }
+  },
+  "delete_user": "Delete",
+  "warning": "Warning",
+  "add_image_for_name_question": "Add new face for {user}?",
+  "@add_image_for_name_question": {
+    "placeholders": {
+      "user": {
+        "type": "String",
+        "example": "User's Name"
+      }
+    }
+  },
+  "add_image_for_name": "Add new face for {user}",
+  "@add_image_for_name": {
+    "placeholders": {
+      "user": {
+        "type": "String",
+        "example": "User's Name"
+      }
+    }
+  },
+  "add_image_for_user": "Add new face for {user}",
+  "@add_image_for_user": {
+    "placeholders": {
+      "user": {
+        "type": "String",
+        "example": "User's Name"
+      }
+    }
+  },
+  "add_image": "Add\nPicture",
+  "analyzing": "Analyzing...",
+  "name": "Name",
+  "edit": "Edit",
+  "changing_camera": "Changing camera",
+  "no_camera_found": "No camera found",
+  "yes": "Yes",
+  "no": "No",
+  "more_info": "More info",
+  "tutorial": "Tutorial",
+  "tap_to_recognize": "Tap to\nrecognize",
+  "tap_here_recognize": "Tap here to recognize",
+  "@_MESSAGES": {},
+  "face_added": "Face added successfully",
+  "person_added": "Person added successfully",
+  "person_deleted": "Person deleted successfully",
+  "invalid_settings": "Invalid settings",
+  "an_error_occurred": "An error occurred",
+  "compreface_warning": "This app requires CompreFace to function.\n\nPlease ensure that CompreFace is installed and running before using this app.\n\nWithout it, the app will not operate as intended.\n\nFor more information and installation instructions, please select an option below",
+  "@_SCREEN_SETTINGS": {},
+  "settings": "Settings",
+  "api_key": "API Key",
+  "base_url": "Base URL",
+  "password": "Password",
+  "similarity_threshold": "Similarity Threshold",
+  "show_faces_in_recognize": "Show faces during recognize",
+  "auto_detect_face": "Auto-detect faces",
+  "external_api_call": "External API call",
+  "manage_users": "Manage users",
+  "theme": "Theme",
+  "error_invalid_json": "Invalid JSON",
+  "error_mandatory_field": "Mandatory field",
+  "error_invalid_url": "Invalid URL",
+  "error_url_scheme": "URL must start with http or https",
+  "button_cancel": "Cancel",
+  "button_save": "Save",
+  "button_confirm": "Confirm",
+  "button_retry": "Retry",
+  "change_camera": "Change camera",
+  "change_orientation": "Change orientation",
+  "lock_orientation": "Unlock camera orientation",
+  "unlock_orientation": "Lock camera orientation",
+  "fullscreen": "Fullscreen",
+  "popup_external_api_call": "If set, the API url is called once a face is succesfully recognized",
+  "popup_autodetect": "If enabled, the recognition process starts as soon a face is visible on camera (uses more battery), otherwise it waits until the screen is touched",
+  "popup_show_faces": "If enabled, show random faces during recognition, otherwise a loading animation is shown",
+  "@_SCREEN_ADD_PERSON": {},
+  "user": "User",
+  "button_create_user": "New user",
+  "empty_list": "Empty list",
+  "button_close": "Close",
+  "error_taking_picture": "Error taking picture",
+  "@_END": {}
+}

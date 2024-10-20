@@ -1,0 +1,101 @@
+{
+  "@@locale": "it",
+  "helloWorld": "Hello World!",
+  "@_DIALOG": {},
+  "password_required": "Password richiesta",
+  "error_wrong_password": "Password errata",
+  "create_user": "Crea utente",
+  "edit_user_name": "Modifica {user}",
+  "@edit_user_name": {
+    "placeholders": {
+      "user": {
+        "type": "String",
+        "example": "User's Name"
+      }
+    }
+  },
+  "edit_user": "Modifica utente",
+  "delete_user_name": "Vuoi eliminare {user}?",
+  "@delete_user_name": {
+    "placeholders": {
+      "user": {
+        "type": "String",
+        "example": "User's Name"
+      }
+    }
+  },
+  "delete_user": "Elimina",
+  "warning": "Attenzione",
+  "add_image_for_name_question": "Aggiungi nuovo volto per {user}?",
+  "@add_image_for_name_question": {
+    "placeholders": {
+      "user": {
+        "type": "String",
+        "example": "User's Name"
+      }
+    }
+  },
+  "add_image_for_name": "Aggiungi nuovo volto per {user}",
+  "@add_image_for_name": {
+    "placeholders": {
+      "user": {
+        "type": "String",
+        "example": "User's Name"
+      }
+    }
+  },
+  "add_image_for_user": "Aggiungi alto volto",
+  "add_image": "Aggiungi\nFoto",
+  "analyzing": "Analisi...",
+  "name": "Nome",
+  "edit": "Modifica",
+  "changing_camera": "Cambio fotocamera",
+  "no_camera_found": "Nessuna fotocamera trovata!",
+  "yes": "Sì",
+  "no": "No",
+  "more_info": "Ulteriori info",
+  "tutorial": "Tutorial",
+  "tap_to_recognize": "Tocca per\nscansionare",
+  "tap_here_recognize": "Tocca qui per scansionare",
+  "@_MESSAGES": {},
+  "face_added": "Viso aggiunto con successo",
+  "person_added": "Persona aggiunta con successo",
+  "person_deleted": "Persona cancellata con successo",
+  "invalid_settings": "Impostazioni non valide",
+  "an_error_occurred": "Si è verificato un errore",
+  "compreface_warning": "Questa app richiede CompreFace per funzionare.\n\nAssicurati che CompreFace sia installato e in esecuzione prima di utilizzare questa app.\n\nSenza di esso, l'app non funzionerà come previsto.\n\nPer maggiori informazioni e istruzioni per l'installazione, seleziona un'opzione",
+  "@_SCREEN_SETTINGS": {},
+  "settings": "Impostazioni",
+  "api_key": "Chiave API",
+  "base_url": "Base URL",
+  "password": "Password",
+  "similarity_threshold": "Soglia di somiglianza",
+  "show_faces_in_recognize": "Mostra visi al riconoscimento",
+  "auto_detect_face": "Riconoscimento automatico volti",
+  "external_api_call": "Chiamata API esterna",
+  "manage_users": "Gestione utenti",
+  "theme": "Tema",
+  "error_invalid_json": "JSON non valido",
+  "error_mandatory_field": "Campo obbligatorio",
+  "error_invalid_url": "Formato URL non valido",
+  "error_url_scheme": "URL deve iniziare con http o https",
+  "button_cancel": "Annulla",
+  "button_save": "Salva",
+  "button_confirm": "Conferma",
+  "button_retry": "Riprova",
+  "change_camera": "Cambia fotocamera",
+  "change_orientation": "Ruota fotocamera",
+  "lock_orientation": "Blocca rotazione automatica",
+  "unlock_orientation": "Sblocca rotazione automatica",
+  "fullscreen": "Schermo intero",
+  "popup_external_api_call": "Se impostato, viene chiamata l'API quando un viso viene riconosciuto correttamente",
+  "popup_autodetect": "Se abilitato, il riconoscimento parte in automatico non appena la camera rileva un viso (consuma più batteria), altrimenti il riconoscimento parte solo quando si tocca lo schermo",
+  "popup_show_faces": "Se abilitato, mostra alcuni visi durante il riconoscimento, altrimenti verrà mostrato un'animazione di caricamento",
+  "@_SCREEN_ADD_PERSON": {},
+  "user": "Utente",
+  "button_create_user": "Nuovo utente",
+  "empty_list": "Lista vuota",
+  "button_close": "Chiudi",
+  "error_taking_picture": "Errore durante scatto foto",
+  "@_END": {}
+}

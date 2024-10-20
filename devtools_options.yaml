@@ -1,0 +1,3 @@
+extensions:
+  - shared_preferences_tools: true
+  - provider: true
