@@ -50,7 +50,8 @@ class CommonUtils {
 
   static bool isValidUrl(String url) {
     final urlPattern =
-        r'^(http|https):\/\/(([\w.-]+\.[a-zA-Z]{2,}|(?:\d{1,3}\.){3}\d{1,3}))(\/[\w\/.-]*)?(:\d+)?$';
+        r'^(http|https):\/\/(([\w.-]+\.[a-zA-Z]{2,}|(?:\d{1,3}\.){3}\d{1,3}))(\/[\w\/.-]*)?(:\d+)?(\?.*)?$';
+
     final regExp = RegExp(urlPattern);
 
     final match = regExp.firstMatch(url);

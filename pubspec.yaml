@@ -3,7 +3,7 @@ description: "A Free and Opensource Face Detection App"
 
 publish_to: 'none'
 
-version: 1.0.7+107
+version: 1.0.8+108
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
